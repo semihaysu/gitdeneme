@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 deneme 
 deneme2
 deneme3
+deneme4 vsc
